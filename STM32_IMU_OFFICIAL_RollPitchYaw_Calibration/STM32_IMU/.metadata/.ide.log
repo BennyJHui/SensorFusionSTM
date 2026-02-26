@@ -1,0 +1,199 @@
+2026-01-23 09:49:40,210 [INFO] Activator:176 - 
+
+
+2026-01-23 09:49:40,226 [INFO] Activator:177 - !SESSION log4j initialized
+2026-01-23 09:49:42,123 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2026-01-23 09:49:42,491 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-23 09:49:42,492 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-23 09:49:42,492 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-23 09:49:45,662 [INFO] ApplicationProperties:184 - Using Application install path: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659
+2026-01-23 09:49:45,673 [INFO] DbMcusXml:78 - Set database path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/mcu/
+2026-01-23 09:49:45,673 [INFO] ApiDb:274 - Set plugin database path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/plugins/boardmanager/
+2026-01-23 09:49:45,674 [WARN] ApiDb:259 - Overriding images path with different value:  => C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/plugins/mcufinder/images/
+2026-01-23 09:49:45,678 [INFO] ApiDb:250 - Set database path to: C:\Users\HUB4RT\.stmcufinder\plugins\mcufinder//mcu/
+2026-01-23 09:49:45,679 [INFO] DbMcusAds:125 - Set database path to: C:\Users\HUB4RT\.stmcufinder\plugins\mcufinder//mcu/
+2026-01-23 09:49:45,681 [INFO] CrossReferenceDbSqlite:203 - Set database path to: C:\Users\HUB4RT\.stmcufinder\plugins\mcufinder//mcu/cs/
+2026-01-23 09:49:45,759 [INFO] RulesReader:64 - Compatibility file has been processed (317 Rules)
+2026-01-23 09:49:45,843 [INFO] DbMcusXml:78 - Set database path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/mcu/
+2026-01-23 09:49:45,844 [INFO] ApiDb:274 - Set plugin database path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/plugins/boardmanager/
+2026-01-23 09:49:45,844 [INFO] ApiDb:261 - Set plugin images path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/plugins/mcufinder/images/
+2026-01-23 09:49:45,844 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\HUB4RT\.stmcufinder\plugins\mcufinder/ => C:\Users\HUB4RT\.stmcufinder\plugins\mcufinder
+2026-01-23 09:49:45,844 [INFO] ApiDb:250 - Set database path to: C:\Users\HUB4RT\.stmcufinder\plugins\mcufinder//mcu/
+2026-01-23 09:49:45,844 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\HUB4RT\.stmcufinder\plugins\mcufinder/ => C:\Users\HUB4RT\.stmcufinder\plugins\mcufinder
+2026-01-23 09:49:45,844 [INFO] DbMcusAds:125 - Set database path to: C:\Users\HUB4RT\.stmcufinder\plugins\mcufinder//mcu/
+2026-01-23 09:49:45,844 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\HUB4RT\.stmcufinder\plugins\mcufinder/ => C:\Users\HUB4RT\.stmcufinder\plugins\mcufinder
+2026-01-23 09:49:45,844 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\HUB4RT\.stmcufinder\plugins\mcufinder/ => C:\Users\HUB4RT\.stmcufinder\plugins\mcufinder
+2026-01-23 09:49:45,844 [INFO] CrossReferenceDbSqlite:203 - Set database path to: C:\Users\HUB4RT\.stmcufinder\plugins\mcufinder//mcu/cs/
+2026-01-23 09:49:45,903 [INFO] MainPanel:274 - HeapMemory: 268435456
+2026-01-23 09:49:45,967 [INFO] DbMcusXml:78 - Set database path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/mcu/
+2026-01-23 09:49:45,967 [INFO] ApiDb:274 - Set plugin database path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/plugins/boardmanager/
+2026-01-23 09:49:45,967 [INFO] ApiDb:261 - Set plugin images path to: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\/plugins/mcufinder/images/
+2026-01-23 09:49:45,967 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\HUB4RT\.stmcufinder\plugins\mcufinder/ => C:\Users\HUB4RT\.stmcufinder\plugins\mcufinder
+2026-01-23 09:49:45,967 [INFO] ApiDb:250 - Set database path to: C:\Users\HUB4RT\.stmcufinder\plugins\mcufinder//mcu/
+2026-01-23 09:49:45,967 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\HUB4RT\.stmcufinder\plugins\mcufinder/ => C:\Users\HUB4RT\.stmcufinder\plugins\mcufinder
+2026-01-23 09:49:45,968 [INFO] DbMcusAds:125 - Set database path to: C:\Users\HUB4RT\.stmcufinder\plugins\mcufinder//mcu/
+2026-01-23 09:49:45,968 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\HUB4RT\.stmcufinder\plugins\mcufinder/ => C:\Users\HUB4RT\.stmcufinder\plugins\mcufinder
+2026-01-23 09:49:45,968 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\HUB4RT\.stmcufinder\plugins\mcufinder/ => C:\Users\HUB4RT\.stmcufinder\plugins\mcufinder
+2026-01-23 09:49:45,968 [INFO] CrossReferenceDbSqlite:203 - Set database path to: C:\Users\HUB4RT\.stmcufinder\plugins\mcufinder//mcu/cs/
+2026-01-23 09:49:45,981 [INFO] ApplicationProperties:184 - Using Application install path: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659
+2026-01-23 09:49:45,982 [INFO] PluginManage:196 - Search for loadable plugins [exclusion list=, ]
+2026-01-23 09:49:45,983 [INFO] PluginManage:310 - Check plugin analytics
+2026-01-23 09:49:46,168 [INFO] AnalyticsPlugin:253 - Accepted Software Licenses: 
+2026-01-23 09:49:46,169 [INFO] AnalyticsPlugin:255 - Accepted CMSIS Pack Licenses: 
+2026-01-23 09:49:46,169 [INFO] AnalyticsPlugin:257 - Accepted Firmware Licenses: 
+2026-01-23 09:49:46,172 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-23 09:49:46,173 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-23 09:49:46,173 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-23 09:49:46,174 [INFO] PluginManage:359 - Loaded plugin analytics (category:tool,tabindex:-1)
+2026-01-23 09:49:46,174 [INFO] PluginManage:310 - Check plugin cadmodel
+2026-01-23 09:49:46,180 [INFO] CADModel:105 - Init CAD model plugin
+2026-01-23 09:49:46,180 [INFO] PluginManage:359 - Loaded plugin cadmodel (category:power,tabindex:5)
+2026-01-23 09:49:46,180 [INFO] PluginManage:310 - Check plugin clock
+2026-01-23 09:49:46,193 [INFO] PluginManage:359 - Loaded plugin clock (category:base,tabindex:2)
+2026-01-23 09:49:46,193 [INFO] PluginManage:310 - Check plugin ddr
+2026-01-23 09:49:46,197 [INFO] PluginManage:359 - Loaded plugin ddr (category:tool,tabindex:6)
+2026-01-23 09:49:46,197 [INFO] PluginManage:310 - Check plugin filemanager
+2026-01-23 09:49:46,360 [INFO] PluginManage:359 - Loaded plugin filemanager (category:base,tabindex:10)
+2026-01-23 09:49:46,361 [INFO] PluginManage:310 - Check plugin ipmanager
+2026-01-23 09:49:46,369 [INFO] PluginManage:359 - Loaded plugin ipmanager (category:base,tabindex:5)
+2026-01-23 09:49:46,369 [INFO] PluginManage:310 - Check plugin lpbam
+2026-01-23 09:49:46,374 [INFO] PluginManage:359 - Loaded plugin lpbam (category:base,tabindex:0)
+2026-01-23 09:49:46,374 [INFO] PluginManage:310 - Check plugin memorymap
+2026-01-23 09:49:46,381 [INFO] PluginManage:359 - Loaded plugin memorymap (category:base,tabindex:4)
+2026-01-23 09:49:46,381 [INFO] PluginManage:310 - Check plugin pinoutandconfiguration
+2026-01-23 09:49:46,385 [INFO] PluginManage:359 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2026-01-23 09:49:46,386 [INFO] PluginManage:310 - Check plugin pinoutconfig
+2026-01-23 09:49:46,439 [WARN] SupportedApi:132 - Cannot load RTOS API schema: s4s-elt-must-match.1: The content of 'definitions' must match (annotation?, (simpleType | complexType)?, (unique | key | keyref)*)). A problem was found starting at: attribute.
+2026-01-23 09:49:46,519 [INFO] PluginManage:359 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2026-01-23 09:49:46,519 [INFO] PluginManage:310 - Check plugin power
+2026-01-23 09:49:46,523 [INFO] PluginManage:359 - Loaded plugin power (category:power,tabindex:4)
+2026-01-23 09:49:46,524 [INFO] PluginManage:310 - Check plugin projectmanager
+2026-01-23 09:49:46,535 [INFO] PluginManage:359 - Loaded plugin projectmanager (category:projectmanager,tabindex:4)
+2026-01-23 09:49:46,535 [INFO] PluginManage:310 - Check plugin rif
+2026-01-23 09:49:46,542 [INFO] PluginManage:359 - Loaded plugin rif (category:base,tabindex:3)
+2026-01-23 09:49:46,543 [INFO] PluginManage:310 - Check plugin thirdparty
+2026-01-23 09:49:46,635 [WARN] IntegrityCheckThread:84 - waiting for thirdparty lock release [integrity check]
+2026-01-23 09:49:46,635 [INFO] IntegrityCheckThread:86 - entering critical section [integrity check]
+2026-01-23 09:49:46,635 [INFO] PluginManage:359 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2026-01-23 09:49:46,635 [INFO] PluginManage:310 - Check plugin tools
+2026-01-23 09:49:46,635 [INFO] ThirdPartyUpdaterWithRetryManager:70 - Updater plugin not ready yet. [1/15]
+2026-01-23 09:49:46,638 [INFO] PluginManage:359 - Loaded plugin tools (category:base,tabindex:7)
+2026-01-23 09:49:46,638 [INFO] PluginManage:310 - Check plugin tutovideos
+2026-01-23 09:49:46,749 [INFO] PluginManage:359 - Loaded plugin tutovideos (category:base,tabindex:-1)
+2026-01-23 09:49:46,749 [INFO] PluginManage:310 - Check plugin updater
+2026-01-23 09:49:46,762 [INFO] PluginManage:359 - Loaded plugin updater (category:base,tabindex:12)
+2026-01-23 09:49:46,762 [INFO] PluginManage:310 - Check plugin userauth
+2026-01-23 09:49:46,764 [INFO] UserAuth:118 - Init User Auth plugin
+2026-01-23 09:49:46,765 [INFO] PluginManage:359 - Loaded plugin userauth (category:base,tabindex:14)
+2026-01-23 09:49:46,765 [INFO] PluginManage:283 - PluginManage : Loaded plugins [18]
+2026-01-23 09:49:46,802 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-23 09:49:46,803 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-23 09:49:46,803 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-23 09:49:46,943 [INFO] PinOutPanel:1589 - setPackage(No Configuration,No Configuration)
+2026-01-23 09:49:47,045 [INFO] CADModel:165 - CPN selected for project level
+2026-01-23 09:49:47,045 [INFO] CADModel:114 - Register for checkConnection events
+2026-01-23 09:49:47,074 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2026-01-23 09:49:47,074 [INFO] PluginManager:220 - loadIPPluginJar : add adc
+2026-01-23 09:49:47,080 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2026-01-23 09:49:47,080 [INFO] PluginManager:220 - loadIPPluginJar : add aes
+2026-01-23 09:49:47,086 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2026-01-23 09:49:47,086 [INFO] PluginManager:220 - loadIPPluginJar : add can
+2026-01-23 09:49:47,090 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2026-01-23 09:49:47,091 [INFO] PluginManager:220 - loadIPPluginJar : add comp
+2026-01-23 09:49:47,098 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2026-01-23 09:49:47,098 [INFO] PluginManager:220 - loadIPPluginJar : add cryp
+2026-01-23 09:49:47,102 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2026-01-23 09:49:47,102 [INFO] PluginManager:220 - loadIPPluginJar : add ddr_ctrl_phy
+2026-01-23 09:49:47,105 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2026-01-23 09:49:47,105 [INFO] PluginManager:220 - loadIPPluginJar : add dfsdm
+2026-01-23 09:49:47,113 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2026-01-23 09:49:47,115 [INFO] PluginManager:220 - loadIPPluginJar : add dma
+2026-01-23 09:49:47,119 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2026-01-23 09:49:47,119 [INFO] PluginManager:220 - loadIPPluginJar : add dma3
+2026-01-23 09:49:47,126 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2026-01-23 09:49:47,127 [INFO] PluginManager:220 - loadIPPluginJar : add extmemmanager
+2026-01-23 09:49:47,129 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2026-01-23 09:49:47,130 [INFO] PluginManager:220 - loadIPPluginJar : add fatfs
+2026-01-23 09:49:47,138 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2026-01-23 09:49:47,138 [INFO] PluginManager:220 - loadIPPluginJar : add fmc
+2026-01-23 09:49:47,144 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2026-01-23 09:49:47,145 [INFO] PluginManager:220 - loadIPPluginJar : add freertos
+2026-01-23 09:49:47,148 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2026-01-23 09:49:47,148 [INFO] PluginManager:220 - loadIPPluginJar : add genericplugin
+2026-01-23 09:49:47,151 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2026-01-23 09:49:47,152 [INFO] PluginManager:220 - loadIPPluginJar : add gfxmmu
+2026-01-23 09:49:47,159 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2026-01-23 09:49:47,160 [INFO] PluginManager:220 - loadIPPluginJar : add gic
+2026-01-23 09:49:47,166 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2026-01-23 09:49:47,166 [INFO] PluginManager:220 - loadIPPluginJar : add gpio
+2026-01-23 09:49:47,172 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2026-01-23 09:49:47,172 [INFO] PluginManager:220 - loadIPPluginJar : add gtzc
+2026-01-23 09:49:47,176 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2026-01-23 09:49:47,176 [INFO] PluginManager:220 - loadIPPluginJar : add hash
+2026-01-23 09:49:47,180 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2026-01-23 09:49:47,181 [INFO] PluginManager:220 - loadIPPluginJar : add i2c
+2026-01-23 09:49:47,184 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2026-01-23 09:49:47,185 [INFO] PluginManager:220 - loadIPPluginJar : add i2s
+2026-01-23 09:49:47,190 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2026-01-23 09:49:47,190 [INFO] PluginManager:220 - loadIPPluginJar : add i3c
+2026-01-23 09:49:47,196 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2026-01-23 09:49:47,196 [INFO] PluginManager:220 - loadIPPluginJar : add ipddr
+2026-01-23 09:49:47,203 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2026-01-23 09:49:47,204 [INFO] PluginManager:220 - loadIPPluginJar : add linkedlist
+2026-01-23 09:49:47,207 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2026-01-23 09:49:47,207 [INFO] PluginManager:220 - loadIPPluginJar : add lorawan
+2026-01-23 09:49:47,211 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2026-01-23 09:49:47,211 [INFO] PluginManager:220 - loadIPPluginJar : add ltdc
+2026-01-23 09:49:47,220 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2026-01-23 09:49:47,220 [INFO] PluginManager:220 - loadIPPluginJar : add mdma
+2026-01-23 09:49:47,230 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2026-01-23 09:49:47,230 [INFO] PluginManager:220 - loadIPPluginJar : add nvic
+2026-01-23 09:49:47,236 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2026-01-23 09:49:47,237 [INFO] PluginManager:220 - loadIPPluginJar : add opamp
+2026-01-23 09:49:47,241 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2026-01-23 09:49:47,241 [INFO] PluginManager:220 - loadIPPluginJar : add openamp
+2026-01-23 09:49:47,246 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2026-01-23 09:49:47,246 [INFO] PluginManager:220 - loadIPPluginJar : add pdm2pcm
+2026-01-23 09:49:47,255 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2026-01-23 09:49:47,262 [INFO] PluginManager:220 - loadIPPluginJar : add plateformsettings
+2026-01-23 09:49:47,264 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2026-01-23 09:49:47,265 [INFO] PluginManager:220 - loadIPPluginJar : add quadspi
+2026-01-23 09:49:47,268 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2026-01-23 09:49:47,269 [INFO] PluginManager:220 - loadIPPluginJar : add radio
+2026-01-23 09:49:47,273 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2026-01-23 09:49:47,274 [INFO] PluginManager:220 - loadIPPluginJar : add resmgrutility
+2026-01-23 09:49:47,277 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2026-01-23 09:49:47,277 [INFO] PluginManager:220 - loadIPPluginJar : add sai
+2026-01-23 09:49:47,279 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2026-01-23 09:49:47,279 [INFO] PluginManager:220 - loadIPPluginJar : add spi
+2026-01-23 09:49:47,285 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2026-01-23 09:49:47,285 [INFO] PluginManager:220 - loadIPPluginJar : add stm32_wpan
+2026-01-23 09:49:47,288 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2026-01-23 09:49:47,288 [INFO] PluginManager:220 - loadIPPluginJar : add tim
+2026-01-23 09:49:47,293 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2026-01-23 09:49:47,293 [INFO] PluginManager:220 - loadIPPluginJar : add touchsensing
+2026-01-23 09:49:47,297 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2026-01-23 09:49:47,297 [INFO] PluginManager:220 - loadIPPluginJar : add tracer_emb
+2026-01-23 09:49:47,301 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2026-01-23 09:49:47,301 [INFO] PluginManager:220 - loadIPPluginJar : add ts
+2026-01-23 09:49:47,304 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2026-01-23 09:49:47,305 [INFO] PluginManager:220 - loadIPPluginJar : add tsc
+2026-01-23 09:49:47,307 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2026-01-23 09:49:47,308 [INFO] PluginManager:220 - loadIPPluginJar : add ucpd
+2026-01-23 09:49:47,312 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2026-01-23 09:49:47,312 [INFO] PluginManager:220 - loadIPPluginJar : add usart
+2026-01-23 09:49:47,318 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2026-01-23 09:49:47,319 [INFO] PluginManager:220 - loadIPPluginJar : add usbx
+2026-01-23 09:49:47,461 [FATAL] Updater:351 - Updater called before beeing initialized
+2026-01-23 09:49:47,486 [INFO] RulesReader:64 - Compatibility file has been processed (317 Rules)
+2026-01-23 09:49:47,497 [INFO] RulesReader:64 - Compatibility file has been processed (317 Rules)
+2026-01-23 09:49:47,507 [INFO] CADModel:165 - CPN selected for project level
+2026-01-23 09:49:47,507 [INFO] CADModel:114 - Register for checkConnection events
+2026-01-23 09:49:47,507 [FATAL] Updater:351 - Updater called before beeing initialized
+2026-01-23 09:49:47,507 [ERROR] CADModel:125 - Updater not yet initialized, retry later 
+2026-01-23 09:49:47,635 [FATAL] Updater:351 - Updater called before beeing initialized
+2026-01-23 09:49:47,636 [INFO] CADModel:165 - CPN selected for project level
+2026-01-23 09:49:47,636 [INFO] CADModel:114 - Register for checkConnection events
+2026-01-23 09:49:47,636 [FATAL] Updater:351 - Updater called before beeing initialized
+2026-01-23 09:49:47,636 [ERROR] CADModel:125 - Updater not yet initialized, retry later 
+2026-01-23 09:49:47,639 [FATAL] Updater:351 - Updater called before beeing initialized
