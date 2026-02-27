@@ -1,0 +1,15 @@
+../Drivers/CMSIS/Include/core_cm7.h:2660:26:ITM_SendChar	16	static,ignoring_inline_asm
+../Core/Src/main.c:102:5:main	424	static
+../Core/Src/main.c:378:6:SystemClock_Config	120	static
+../Core/Src/main.c:438:13:MX_SPI1_Init	8	static
+../Core/Src/main.c:486:13:MX_TIM13_Init	8	static
+../Core/Src/main.c:517:13:MX_USART3_UART_Init	8	static
+../Core/Src/main.c:565:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:631:14:lsb_to_g	32	static
+../Core/Src/main.c:640:15:set_accel_gyro_config	136	static
+../Core/Src/main.c:726:15:bmi3_spi_read	32	static
+../Core/Src/main.c:746:15:bmi3_spi_write	32	static
+../Core/Src/main.c:769:13:bmi3_delay_us	16	static
+../Core/Src/main.c:780:5:_write	32	static
+../Core/Src/main.c:796:6:MPU_Config	24	static
+../Core/Src/main.c:827:6:Error_Handler	4	static,ignoring_inline_asm
