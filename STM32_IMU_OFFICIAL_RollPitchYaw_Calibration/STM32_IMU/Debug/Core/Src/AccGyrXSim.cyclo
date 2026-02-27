@@ -1,7 +1,0 @@
-../Core/Src/AccGyrXSim.c:49:13:AccGyrXSim_NED_ecompass	13
-../Core/Src/AccGyrXSim.c:155:13:AccGyrXSi_quaternion_quaternion	2
-../Core/Src/AccGyrXSim.c:180:13:AccGyrXSim_imufilter_stepImpl	33
-../Core/Src/AccGyrXSim.c:592:8:rt_atan2d_snf	10
-../Core/Src/AccGyrXSim.c:629:6:AccGyrXSim_step	32
-../Core/Src/AccGyrXSim.c:844:6:AccGyrXSim_initialize	3
-../Core/Src/AccGyrXSim.c:913:6:AccGyrXSim_terminate	1

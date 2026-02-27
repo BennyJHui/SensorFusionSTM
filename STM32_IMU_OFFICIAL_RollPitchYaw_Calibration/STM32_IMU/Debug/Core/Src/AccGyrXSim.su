@@ -1,7 +1,0 @@
-../Core/Src/AccGyrXSim.c:49:13:AccGyrXSim_NED_ecompass	96	static
-../Core/Src/AccGyrXSim.c:155:13:AccGyrXSi_quaternion_quaternion	48	static
-../Core/Src/AccGyrXSim.c:180:13:AccGyrXSim_imufilter_stepImpl	272	static
-../Core/Src/AccGyrXSim.c:592:8:rt_atan2d_snf	40	static
-../Core/Src/AccGyrXSim.c:629:6:AccGyrXSim_step	200	static
-../Core/Src/AccGyrXSim.c:844:6:AccGyrXSim_initialize	24	static
-../Core/Src/AccGyrXSim.c:913:6:AccGyrXSim_terminate	4	static
